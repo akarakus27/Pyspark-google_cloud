@@ -1,9 +1,9 @@
-# Pyspark-goole_cloud
+# Pyspark-google_cloud
 
 
 
 
-Dataproc üzerinden cluster yaratıyoruz. 
+Dataproc üzerinden cgluster yaratıyoruz. 
 
 Ssh ile bu cluster baglanıyoruz
 
